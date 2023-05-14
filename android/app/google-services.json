@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "98615996231",
+    "project_id": "chat-app-rn-f6a99",
+    "storage_bucket": "chat-app-rn-f6a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98615996231:android:d6e41241758a6838392662",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98615996231-hi2d8njnlro8rpdpb86nl1p7ck2tqfdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9BtFWS-hNAuLC2b_jNRtrAdegEN8nhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98615996231-hi2d8njnlro8rpdpb86nl1p7ck2tqfdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98615996231:android:7d96857de1d53622392662",
+        "android_client_info": {
+          "package_name": "com.groupchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98615996231-8d7qnll1udrslavft006b1phaappq566.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groupchatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "98615996231-hi2d8njnlro8rpdpb86nl1p7ck2tqfdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9BtFWS-hNAuLC2b_jNRtrAdegEN8nhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98615996231-hi2d8njnlro8rpdpb86nl1p7ck2tqfdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
